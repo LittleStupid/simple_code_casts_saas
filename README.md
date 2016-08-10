@@ -26,3 +26,4 @@ If you choose to be a pro user, we will charge you $10/month.(Notice: because we
 ![img](https://github.com/LittleStupid/simple_code_casts_saas/blob/master/demo/Screen%20Shot%202016-08-10%20at%2010.27.06%20PM.png)
 ![img](https://github.com/LittleStupid/simple_code_casts_saas/blob/master/demo/Screen%20Shot%202016-08-10%20at%2010.27.35%20PM.png)
 ![img](https://github.com/LittleStupid/simple_code_casts_saas/blob/master/demo/Screen%20Shot%202016-08-10%20at%2010.30.03%20PM.png)
+![img](https://github.com/LittleStupid/simple_code_casts_saas/blob/master/demo/Screen%20Shot%202016-08-10%20at%2010.28.53%20PM.png)
