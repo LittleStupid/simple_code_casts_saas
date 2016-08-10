@@ -3,9 +3,11 @@
 
 ### Run these commands at first time.
 1.Enter rails console
+
     rails c
 
 2.Create Plan Data item:
+
     Plan.create(name:"Basic", price:0)
     Plan.create(name:"Pro", price:10)
 
