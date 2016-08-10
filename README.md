@@ -1,5 +1,5 @@
 ## This is a learn by doing project followed by the course in Udemy
-## Click [here](http://example.com/) to see course information.
+## Click [here](https://www.udemy.com/job-ready-web-developer/) to see course information.
 
 ### Run these commands at first time.
 1.Enter rails console
