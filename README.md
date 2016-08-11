@@ -11,7 +11,7 @@
     Plan.create(name:"Basic", price:0)
     Plan.create(name:"Pro", price:10)
 
-### I also deploy it on the heroku, click [here](http://protected-coast-41471.herokuapp.com).
+### I also deploy it on the heroku, click [here](http://protected-coast-41471.herokuapp.com).（ Image may not be shown because I have not bought S3 service to store pictures, but it works if you clone this project into your computer ).
 
 ### About this page
 1.In this page, you can register as basic or pro user.
